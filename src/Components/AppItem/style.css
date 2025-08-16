@@ -1,0 +1,33 @@
+.app-item {
+  width: 100px;
+  text-align: center;
+  margin: 15px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  flex-wrap:wrap;
+  flex:1;
+  align-items:center;
+}
+
+.app-image {
+  width: 80px;
+  height: 80px;
+}
+
+.app-name {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.card-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  transition: transform 0.2s;
+  max-height: 120px;
+  margin: 10px;
+  cursor: pointer;
+}
+ 

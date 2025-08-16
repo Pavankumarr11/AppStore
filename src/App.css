@@ -1,0 +1,5 @@
+.app-bg {
+  background-image : linear-gradient(to top, #ace0f9, #fff1eb);
+  background-size:cover;
+  height:100vh;
+}
